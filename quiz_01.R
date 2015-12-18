@@ -1,5 +1,5 @@
 # ---------------------------------------------------------------------
-# Coursera.org - Data Science Specialization - Developing Data Products 
+# Coursera.org - Data Science Specialization - Capstone Project
 # 
 # >> Quiz Solution (01)
 # author..: Sergio Vicente (@svicente99)
